@@ -63,7 +63,7 @@ knowledge-graph-rag/
    NEO4J_URI=your_neo4j_uri
    NEO4J_USERNAME=your_neo4j_username
    NEO4J_PASSWORD=your_neo4j_password
-   AURA_INSTANCENAME=your_aura_instance_name
+   AURA_INSTANCENAME=344604a3
    OPENAI_API_KEY=your_openai_api_key
    ```
 
